@@ -1,4 +1,4 @@
-# 🍫 Chocolate Customer Behavior Predictor
+# Customer Behavior Predictor
 
 An end-to-end Machine Learning application that predicts customer spending categories (Low, Medium, or High) based on shopping behavior and demographic data. Developed in **Jupyter Notebook** and deployed as an interactive web dashboard using **Streamlit**.
 
