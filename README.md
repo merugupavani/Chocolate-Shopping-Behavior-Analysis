@@ -12,12 +12,4 @@ This project analyzes how factors like age, seasonal trends, and discount usage 
 *   **Frontend/Deployment:** Streamlit
 *   **Environment:** Jupyter Notebook
 
-## 📂 Project Structure
-```text
-├── data/                   # Dataset files (CSV)
-├── notebooks/              # Jupyter Notebooks for EDA and Modeling
-├── app.py                  # Streamlit application script
-├── model.pkl               # Saved trained ML model
-├── scaler.pkl              # Saved StandardScaler object
-├── features.pkl            # List of feature names for encoding alignment
-└── requirements.txt        # List of dependencies
+
